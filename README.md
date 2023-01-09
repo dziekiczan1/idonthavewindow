@@ -2,7 +2,7 @@
 
 ### [Live Site](https://idonthaveawindow.netlify.app/)
 
-![I don't have a window](https://piotr.rzadkowolski.dev/assets/proj3.jpg)
+![I don't have a window](https://piotr.rzadkowolski.dev/assets/proj3.webp)
 
 ## Introduction
 This is a code repository for the **I don't have a window** app. 
